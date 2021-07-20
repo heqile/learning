@@ -15,6 +15,7 @@
 3. strings
 4. exiftool
 5. binwalk
+6. stegseek: brute force
 
 ## Reversing
 ### Linux
