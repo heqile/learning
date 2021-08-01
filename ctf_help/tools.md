@@ -28,3 +28,8 @@
 
 ## General
 1. pwntool: python pentest lib
+
+## Enumeration
+1. LinEnum.sh
+2. linpeas.sh
+3. lse.sh
